@@ -1,0 +1,10 @@
+  -> Adantages of GIT 
+      -> free and open source 
+      -> fast 
+      -> easy to manage
+      -> security 
+ _> Difference between Git and Git Hub 
+   -> git is a sofware tool and Github is a service 
+   -> It is install in local system and Github is hosted on the web 
+   -> Git is used to manage different versions of the source code while github is used to have a copy of the local repo code.
+   -> Git provide command line to interect with the file while Github provide a GUI to store the files
